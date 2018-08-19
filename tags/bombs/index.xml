@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bombs on Minimal</title>
+    <link>http://example.com/tags/bombs/</link>
+    <description>Recent content in Bombs on Minimal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.com/tags/bombs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NekoLand</title>
+      <link>http://example.com/post/nekoland/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/post/nekoland/</guid>
+      <description>Niahhhh shiahhh bawwwww</description>
+    </item>
+    
+  </channel>
+</rss>

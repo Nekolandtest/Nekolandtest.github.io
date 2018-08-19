@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minimal</title>
+    <link>http://example.com/</link>
+    <description>Recent content on Minimal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cattus</title>
+      <link>http://example.com/post/cattus/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/post/cattus/</guid>
+      <description>niahus niaha niahum
+Today a cat killed everyone that I knew, and then I caught it and trained it. Then I rode that cat into the sunrise and then took over Russia. When I did that I took the Moon and threw a bunch of humans onto to it. Then I used the power of my cat-alytic converter and turned cheese into bombs. Then my cat ate the U.S, but Obama took my cat.</description>
+    </item>
+    
+    <item>
+      <title>Goomy</title>
+      <link>http://example.com/post/goomy/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/post/goomy/</guid>
+      <description>Niahh miahhh shahh paww pasu desu meow</description>
+    </item>
+    
+    <item>
+      <title>NekoLand</title>
+      <link>http://example.com/post/nekoland/</link>
+      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/post/nekoland/</guid>
+      <description>Niahhhh shiahhh bawwwww</description>
+    </item>
+    
+  </channel>
+</rss>
